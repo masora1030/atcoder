@@ -1,0 +1,12 @@
+{
+	"id": 5360451,
+	"epoch_second": 1557581183,
+	"problem_id": "diverta2019_d",
+	"contest_id": "diverta2019",
+	"user_id": "Skygood",
+	"language": "C (GCC 5.4.1)",
+	"point": 500,
+	"length": 301,
+	"result": "AC",
+	"execution_time": 11
+}
