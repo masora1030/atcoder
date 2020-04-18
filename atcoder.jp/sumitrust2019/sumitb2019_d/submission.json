@@ -1,0 +1,12 @@
+{
+	"id": 12043815,
+	"epoch_second": 1587207161,
+	"problem_id": "sumitb2019_d",
+	"contest_id": "sumitrust2019",
+	"user_id": "Skygood",
+	"language": "PyPy3 (2.4.0)",
+	"point": 400,
+	"length": 827,
+	"result": "AC",
+	"execution_time": 488
+}
