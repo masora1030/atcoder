@@ -1,0 +1,12 @@
+{
+	"id": 13719730,
+	"epoch_second": 1590840367,
+	"problem_id": "nomura2020_b",
+	"contest_id": "nomura2020",
+	"user_id": "Skygood",
+	"language": "PyPy3 (7.3.0)",
+	"point": 200,
+	"length": 159,
+	"result": "AC",
+	"execution_time": 93
+}
