@@ -1,0 +1,12 @@
+{
+	"id": 13948506,
+	"epoch_second": 1591086147,
+	"problem_id": "diverta2019_2_b",
+	"contest_id": "diverta2019-2",
+	"user_id": "Skygood",
+	"language": "PyPy3 (2.4.0)",
+	"point": 300,
+	"length": 814,
+	"result": "AC",
+	"execution_time": 175
+}
