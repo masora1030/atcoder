@@ -1,0 +1,12 @@
+{
+	"id": 14109421,
+	"epoch_second": 1591596778,
+	"problem_id": "codefestival_2016_qualA_c",
+	"contest_id": "code-festival-2016-quala",
+	"user_id": "Skygood",
+	"language": "PyPy3 (2.4.0)",
+	"point": 400,
+	"length": 675,
+	"result": "AC",
+	"execution_time": 235
+}
