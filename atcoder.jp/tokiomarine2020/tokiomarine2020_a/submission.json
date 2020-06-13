@@ -1,0 +1,12 @@
+{
+	"id": 14219849,
+	"epoch_second": 1592049670,
+	"problem_id": "tokiomarine2020_a",
+	"contest_id": "tokiomarine2020",
+	"user_id": "Skygood",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 56,
+	"result": "AC",
+	"execution_time": 64
+}
