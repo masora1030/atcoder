@@ -1,0 +1,12 @@
+{
+	"id": 14819925,
+	"epoch_second": 1593351846,
+	"problem_id": "intro_heuristics_a",
+	"contest_id": "intro-heuristics",
+	"user_id": "Skygood",
+	"language": "PyPy3 (7.3.0)",
+	"point": 62634806,
+	"length": 1864,
+	"result": "AC",
+	"execution_time": 251
+}
