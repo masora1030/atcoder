@@ -1,0 +1,12 @@
+{
+	"id": 15128165,
+	"epoch_second": 1594412624,
+	"problem_id": "jsc2019_qual_b",
+	"contest_id": "jsc2019-qual",
+	"user_id": "Skygood",
+	"language": "PyPy3 (7.3.0)",
+	"point": 300,
+	"length": 3036,
+	"result": "AC",
+	"execution_time": 148
+}
