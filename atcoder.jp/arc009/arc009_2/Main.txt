@@ -1,0 +1,17 @@
+inf = 10 ** 18
+mod = 10 ** 9 + 7
+
+b = list(map(int, input().split()))
+dic = {str(b[i]):str(i) for i in range(10)}
+n = int(input())
+a = [input() for i in range(n)]
+judge = []
+for i in range(n):
+    tmp = a[i]
+    tmp1 = []
+    for c in tmp:
+        tmp1.append(dic[c])
+    judge.append([int(''.join(tmp1)), i])
+judge.sort(key=lambda x:x[0])
+for i in range(n):
+    print(a[judge[i][1]])
