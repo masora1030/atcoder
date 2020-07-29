@@ -1,0 +1,12 @@
+{
+	"id": 15528169,
+	"epoch_second": 1596052489,
+	"problem_id": "nikkei2019_qual_c",
+	"contest_id": "nikkei2019-qual",
+	"user_id": "Skygood",
+	"language": "PyPy3 (7.3.0)",
+	"point": 400,
+	"length": 3164,
+	"result": "AC",
+	"execution_time": 362
+}
