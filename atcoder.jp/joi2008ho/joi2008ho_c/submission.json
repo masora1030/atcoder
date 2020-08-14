@@ -1,0 +1,12 @@
+{
+	"id": 15881004,
+	"epoch_second": 1597386758,
+	"problem_id": "joi2008ho_c",
+	"contest_id": "joi2008ho",
+	"user_id": "Skygood",
+	"language": "Cython (0.29.16)",
+	"point": 20,
+	"length": 3370,
+	"result": "AC",
+	"execution_time": 1390
+}
