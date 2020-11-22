@@ -1,0 +1,12 @@
+{
+	"id": 18301442,
+	"epoch_second": 1606043392,
+	"problem_id": "indeednow_2015_quala_3",
+	"contest_id": "indeednow-quala",
+	"user_id": "Skygood",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 3282,
+	"result": "AC",
+	"execution_time": 341
+}
