@@ -1,0 +1,12 @@
+{
+	"id": 18485117,
+	"epoch_second": 1606634149,
+	"problem_id": "code_festival_morning_easy_c",
+	"contest_id": "code-festival-2014-morning-easy",
+	"user_id": "Skygood",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 3990,
+	"result": "AC",
+	"execution_time": 213
+}
