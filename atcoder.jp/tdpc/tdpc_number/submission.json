@@ -1,0 +1,12 @@
+{
+	"id": 18771697,
+	"epoch_second": 1607888124,
+	"problem_id": "tdpc_number",
+	"contest_id": "tdpc",
+	"user_id": "Skygood",
+	"language": "PyPy3 (7.3.0)",
+	"point": 4,
+	"length": 3575,
+	"result": "AC",
+	"execution_time": 443
+}
