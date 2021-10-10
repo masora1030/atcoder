@@ -1,0 +1,12 @@
+{
+	"id": 26485230,
+	"epoch_second": 1633848877,
+	"problem_id": "future_fif_digital_days_a",
+	"contest_id": "future-fif-digital-days",
+	"user_id": "Skygood",
+	"language": "PyPy3 (7.3.0)",
+	"point": 299401,
+	"length": 6203,
+	"result": "AC",
+	"execution_time": 224
+}
