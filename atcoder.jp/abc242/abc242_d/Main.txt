@@ -1,0 +1,30 @@
+sr=lambda: input()
+ir=lambda: int(sr())
+lr=lambda: list(map(int, sr().split()))
+
+# dr=lambda: float(sr())
+# dlr=lambda: list(map(float, sr().split()))
+
+inf=10**18
+# mod = 10**9+7
+mod=998244353
+
+def main():
+    s=sr()
+    q=ir()
+    orda = ord('A')
+
+    def get_ans(t, k):
+        if t==0:
+            return s[k]
+        if k==0:
+            return chr(orda + (ord(s[0])-orda+t)%3)
+        ret0 = get_ans(t-1, k//2)
+        return chr(orda + (ord(ret0)-orda+(k%2)+1)%3)
+
+    for _ in range(q):
+        t,k = lr()
+        print(get_ans(t,k-1))
+
+if __name__ == '__main__':
+    main()
